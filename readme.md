@@ -1,6 +1,6 @@
 # Repository for Eres's MA Thesis
 
-Topic: ‘My fever broke’: Investigating Medicine Metaphors in Biomedicine Large Language Models
+Topic: Exploring Pain Metaphor Comprehension Abilities in Large Language Models
 
 Supervisors: Stephan Raaijmakers, Lettie Dorst
 
